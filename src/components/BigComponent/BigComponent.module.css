@@ -1,0 +1,6 @@
+.bigComponent {
+    height: 300vh;
+    width: 100%;
+    border: 3px solid green;
+    scroll-snap-align: center;
+}
